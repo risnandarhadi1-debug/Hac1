@@ -1,0 +1,5 @@
+{
+  "name": "HAC Nano Banana Caricature Maker",
+  "description": "An application that uses Gemini's 'nano-banana' model (gemini-2.5-flash-image) to transform your photos into fun caricatures based on your text prompts.",
+  "requestFramePermissions": []
+}
